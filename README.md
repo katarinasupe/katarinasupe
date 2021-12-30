@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [Memgraph](https://github.com/memgraph/memgraph)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and getting familiar with frontend technologies and libraries (such as React and D3.js)
 - 👯 I’m looking to collaborate on interesting projects with graph analytics
 - 🤔 I’m looking for help with learning new frontend technologies
 - 💬 Ask me about anything you like, and of course - food!

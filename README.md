@@ -1,7 +1,6 @@
 ### Hi, I'm Katarina 👋
 
-Head of Developer Experience at [Memgraph](https://memgraph.com) — an open-source
-graph database for real-time, connected data and AI. I work at the intersection of
+Head of Developer Experience at [Memgraph](https://memgraph.com) — the graph engine for AI context. I work at the intersection of
 developers, graphs, and AI, with Python as my go-to language.
 
 #### 🚀 AI projects I've worked on

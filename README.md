@@ -1,44 +1,21 @@
-### 👋 Hi there
+### Hi, I'm Katarina 👋
 
-I currently work at [Memgraph](https://memgraph.com/)👇
+Head of Developer Experience at [Memgraph](https://memgraph.com) — an open-source
+graph database for real-time, connected data and AI. I work at the intersection of
+developers, graphs, and AI, with Python as my go-to language.
 
-<div>
-    <a href="https://github.com/memgraph/memgraph" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memgraph&repo=memgraph" alt="Memgraph" />
-    </a>
-</div>
-<br/>
+#### 🚀 AI projects I've worked on
+- **[Memgraph AI Toolkit](https://github.com/memgraph/ai-toolkit)** — toolkit for building
+  AI-driven graph apps on Memgraph: LangChain integration, an MCP server,
+  document-to-graph knowledge construction, and database-migration agents.
+- **[Memgraph AI Demos](https://github.com/memgraph/ai-demos)** — reference demos spanning
+  knowledge-graph creation, vector-search retrieval, GraphRAG, and autonomous agents.
 
-I am learning **Python** by working on open source projects, such as [GQLAlchemy](https://memgraph.com/docs/gqlalchemy/) and [MAGE](https://memgraph.com/docs/mage)👇
+#### ✍️ Writing & webinars
+- [Tools vs. Cypher generation in a graph database](https://memgraph.com/blog/tools-vs-cypher-generation-in-graph-database)
+- [NASA × Memgraph: building a people knowledge graph](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph)
 
-<div>
-    <a href="https://github.com/memgraph/gqlalchemy" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memgraph&repo=gqlalchemy" alt="GQLAlchemy" />
-    </a>
-</div>
-<br/>
-<div>
-    <a href="https://github.com/memgraph/mage" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memgraph&repo=mage" alt="MAGE" />
-    </a>
-</div>
-<br/>
+#### 🛠️ I work with
+`Python` · `Graph databases` · `GraphRAG` · `RAG` · `AI agents`
 
-I am also creative, so I like working with frontend technologies and libraries, such as **React** and **D3.js**. Check out my latest project with real-time visualizations 👇
-
-<div>
-    <a href="https://github.com/memgraph/twitter-network-analysis" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memgraph&repo=twitter-network-analysis" alt="TwitterNetwork" />
-    </a>
-</div>
-<br/>
-
-Recently, I also built a website [Awesome Data Stream](https://awesomedata.stream/) with **React**.
-
-### 📫 How to reach me
-
-Find all info [here](https://linktr.ee/supe_katarina).
-
-### 📈 My GitHub stats
-
-[![Katarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarinasupe&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+📫 [LinkedIn](https://linkedin.com/in/katarina-supe)
